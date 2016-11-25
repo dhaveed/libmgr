@@ -1,26 +1,10 @@
-# BlurAdmin Angular admin panel front-end framework
+# Simple book management system for a small library
 
-Customizable admin panel framework made with :heart: by [Akveo team](http://akveo.com/). Follow us on [Twitter](https://twitter.com/akveo_inc) to get latest news about this template first!
+made with :heart: by [Gray Bots](http://twitter.com/graybots). Follow us on [Twitter](https://twitter.com/graybots) to get latest news about this project!
 
-### Demo
-**[Mint version demo](http://akveo.com/blur-admin-mint/)**             |  **[Blur version demo](http://akveo.com/blur-admin/)**
-:-------------------------:|:-------------------------:
-![Mint version demo](http://i.imgur.com/A3TMviJ.png)  |  ![Blur version demo](http://i.imgur.com/EAoiK2O.jpg)
-
-## Angular 2 version
-Here you can find Angular2 based version: [ng2-admin](https://github.com/akveo/ng2-admin).
-
-### Documentation
-Installation, customization and other useful articles: https://akveo.github.io/blur-admin/
-
-## How can I support developers?
-- Star our GitHub repo
-- Create pull requests, submit bugs, suggest new features or documentation updates
-- Follow us on [Twitter](https://twitter.com/akveo_inc)
-- Like our page on [Facebook](https://www.facebook.com/akveo/)
 
 ## Can I hire you guys?
-Yes! We are available for hire. Visit [our homepage](http://akveo.com/) or simply leave us a note to contact@akveo.com. We will be happy to work with you!
+Yes! We are available for hire. Visit [our homepage](http://graybots.com/) or simply leave us a note to contact@akveo.com. We will be happy to work with you!
 
 ## Features
 * Responsive layout
@@ -38,7 +22,15 @@ License
 -------------
 <a href=/LICENSE.txt target="_blank">MIT</a> license.
 
-### From akveo
+### From graybots
 
-Enjoy!
-We're always happy to hear your feedback.
+## Installation guide
+* If intalling in developer mode, clone this repository into any where on your computer using <code>git clone </code>
+* cd to the path where you cloned the repo into
+* run npm install
+* run bower install
+* make sure you have gulp installed globally if not run <code>npm install -g gulp</code>
+* then in your cli run gulp serve to preview or gulp build to build
+
+#Enjoy!
+We're always happy to hear your feedback :heart: :code:.
